@@ -1,0 +1,6 @@
+{
+  "name": "SIM-TracerStudy Universitas Pattimura",
+  "description": "Sistem Informasi Manajemen Tracer Study Alumni Universitas Pattimura terintegrasi ekosistem SIMPATTI LPMPP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
